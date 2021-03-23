@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/harry-potter-quiz/static/css/main.124ecc72.chunk.css",
+    "main.js": "/harry-potter-quiz/static/js/main.90cd0126.chunk.js",
+    "main.js.map": "/harry-potter-quiz/static/js/main.90cd0126.chunk.js.map",
+    "runtime-main.js": "/harry-potter-quiz/static/js/runtime-main.fddcce4e.js",
+    "runtime-main.js.map": "/harry-potter-quiz/static/js/runtime-main.fddcce4e.js.map",
+    "static/css/2.4c97ca4f.chunk.css": "/harry-potter-quiz/static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.cc90a42c.chunk.js": "/harry-potter-quiz/static/js/2.cc90a42c.chunk.js",
+    "static/js/2.cc90a42c.chunk.js.map": "/harry-potter-quiz/static/js/2.cc90a42c.chunk.js.map",
+    "index.html": "/harry-potter-quiz/index.html",
+    "static/css/2.4c97ca4f.chunk.css.map": "/harry-potter-quiz/static/css/2.4c97ca4f.chunk.css.map",
+    "static/css/main.124ecc72.chunk.css.map": "/harry-potter-quiz/static/css/main.124ecc72.chunk.css.map",
+    "static/js/2.cc90a42c.chunk.js.LICENSE.txt": "/harry-potter-quiz/static/js/2.cc90a42c.chunk.js.LICENSE.txt",
+    "static/media/small-deer.67898a0c.svg": "/harry-potter-quiz/static/media/small-deer.67898a0c.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fddcce4e.js",
+    "static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.cc90a42c.chunk.js",
+    "static/css/main.124ecc72.chunk.css",
+    "static/js/main.90cd0126.chunk.js"
+  ]
+}
